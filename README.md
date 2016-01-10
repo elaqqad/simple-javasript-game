@@ -15,4 +15,4 @@ here is a screen shot of the game:
 
 
 
-![Figure](https://raw.githubusercontent.com/yassmarzou/C-shared-memory/master/game_screen.png)
+![Figure](https://github.com/elaqqad/simple-javasript-game/blob/master/game_screen.png)
